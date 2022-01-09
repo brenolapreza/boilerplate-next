@@ -4,7 +4,7 @@ Boilerplate, with <b>NextJS, TypeScript, Styled-Components</b>
 <hr>
 ```
 npm run dev
-# or
+
 yarn dev
 ```
 
